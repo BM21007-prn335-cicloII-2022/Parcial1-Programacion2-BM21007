@@ -138,7 +138,7 @@ public class JFrame1 extends javax.swing.JFrame {
         bg.add(favicon, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
 
         title.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        title.setText("INICIAR SECIÓN");
+        title.setText("INICIAR SESIÓN");
         bg.add(title, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 120, -1, -1));
 
         userLabel.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
